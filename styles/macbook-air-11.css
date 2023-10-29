@@ -1,0 +1,114 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 224.1rem;
+}.macbook-air-11-ftU {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.macbook-air-11-ftU .auto-group-u9mm-dKW {
+  box-sizing: border-box;
+  padding: 1rem 11.2rem 0rem 0.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: rgba(242, 181, 183, 0.400000006);
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-u9mm-dKW .untitled19620231015170744-1-AaL {
+  margin-right: 169.3rem;
+  width: 32.3rem;
+  height: 15.2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-u9mm-dKW .vector-HQ4 {
+  margin-bottom: 1.7rem;
+  width: 10.5rem;
+  height: 9.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-taxs-26k {
+  box-sizing: border-box;
+  padding: 47.9rem 11.177rem 16.6rem 11.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-taxs-26k .auto-group-6taf-koS {
+  margin-bottom: 35.3rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-taxs-26k .auto-group-6taf-koS .icon-nav-arrow-left-iEU {
+  margin-right: 180.2rem;
+  width: 10.4rem;
+  height: 18.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-taxs-26k .auto-group-6taf-koS .icon-nav-arrow-right-q4C {
+  width: 10.523rem;
+  height: 18.7rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-taxs-26k .lets-discover-your-personal-color-JiU {
+  margin: 0rem 0rem 4.3rem 5.777rem;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  line-height: 1.1125;
+  color: #9e6062;
+  font-family: Crimson Pro, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-air-11-ftU .auto-group-taxs-26k .auto-group-peu1-QmW {
+  margin: 0rem 61.823rem 0rem 67.2rem;
+  width: calc(100% - 129.023rem);
+  height: 10.4rem;
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e19dac;
+  border-radius: 10rem;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/rectangle-11-fXv.png');
+  flex-shrink: 0;
+}
